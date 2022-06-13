@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="d7143c3f-a0de-4a5b-b1e1-aeafdffcbebd" Title="API Reference (JSON-RPC)" Url="html/5590F8C9.htm">
+    <HelpTOCNode Id="94db3375-b8bb-49e5-970c-9aad6f994205" Title="MemoryPool.Controller" Url="html/AB6A959E.htm">
+      <HelpTOCNode Id="031eb058-c8b1-4952-8717-04d345cfa0fd" Title="MemPoolRPCController Class" Url="html/E6BC990A.htm">
+        <HelpTOCNode Id="2f4e16a8-f282-45b4-ab1e-b7e3bc4143c4" Title="MemPoolRPCController Methods" Url="html/92A90E6F.htm">
+          <HelpTOCNode Title="GetMempoolAncestors Method " Url="html/1041D052.htm" />
+          <HelpTOCNode Title="GetMempoolDescendants Method " Url="html/7FE89E2B.htm" />
+          <HelpTOCNode Title="GetMempoolEntry Method " Url="html/B6732BBE.htm" />
+          <HelpTOCNode Title="GetMempoolInfo Method " Url="html/18F22BC1.htm" />
+          <HelpTOCNode Title="GetRawMempool Method " Url="html/85C74D90.htm" />
+          <HelpTOCNode Title="GetTxOut Method " Url="html/1B0E963D.htm" />
+          <HelpTOCNode Title="GetTxOutProf Method " Url="html/45DD422C.htm" />
+          <HelpTOCNode Title="GetTxOutSetInfo Method " Url="html/91E79FCB.htm" />
+          <HelpTOCNode Title="RemoveTxFromMemPool Method " Url="html/63F3B69E.htm" />
+          <HelpTOCNode Title="SaveMemPool Method " Url="html/94E37E13.htm" />
+          <HelpTOCNode Title="VerifyTxOutProof Method " Url="html/FA0A67CE.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f52dfa0b-c7e1-45c6-92ac-562a0ae6c05d" Title="Miner.Controllers" Url="html/AAF4654.htm">
+      <HelpTOCNode Id="fdcb2167-51e7-4834-b6b9-e0cd592f2ffb" Title="MiningRPCController Class" Url="html/F1305EE1.htm">
+        <HelpTOCNode Id="c4da1232-12c0-4156-97c6-3da40bd6a4e9" Title="MiningRPCController Methods" Url="html/65FC825E.htm">
+          <HelpTOCNode Title="DumpFeeStats Method " Url="html/E2321614.htm" />
+          <HelpTOCNode Title="EstimateFee Method " Url="html/E2D8EF25.htm" />
+          <HelpTOCNode Title="EstimateSmartFee Method " Url="html/E87B713B.htm" />
+          <HelpTOCNode Title="GetBlockTemplate Method " Url="html/6A3FF8C2.htm" />
+          <HelpTOCNode Title="GetDifficulty Method " Url="html/3E187B18.htm" />
+          <HelpTOCNode Title="GetMiningInfo Method " Url="html/628F1848.htm" />
+          <HelpTOCNode Title="GetNetworkHashPS Method " Url="html/6E4D16F6.htm" />
+          <HelpTOCNode Title="PrioritizeTransaction Method " Url="html/98E30B60.htm" />
+          <HelpTOCNode Title="SubmitBlock Method " Url="html/8C5BB0C0.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dfec4700-7a59-42bf-88e1-e8e972f34a6b" Title="RPC.Controllers" Url="html/2BB7B656.htm">
+      <HelpTOCNode Id="591ac50a-a91b-4580-a956-323a69ea71f4" Title="BlockChainRPCController Class" Url="html/7A47FB8B.htm">
+        <HelpTOCNode Id="c8235af5-850b-4844-8718-a366f256411e" Title="BlockChainRPCController Methods" Url="html/BDDDE25E.htm">
+          <HelpTOCNode Title="GetBestBlockHash Method " Url="html/602E1AC2.htm" />
+          <HelpTOCNode Title="GetBlock Method " Url="html/ABAEF3B2.htm" />
+          <HelpTOCNode Title="GetBlockCount Method " Url="html/468EA096.htm" />
+          <HelpTOCNode Title="GetBlockHash Method " Url="html/91B13B7D.htm" />
+          <HelpTOCNode Title="GetBlockHeader Method " Url="html/58EE1660.htm" />
+          <HelpTOCNode Id="4138491a-61eb-4a82-877b-6e0a2fb8191b" Title="GetBlockHex Method " Url="html/622E8971.htm">
+            <HelpTOCNode Title="GetBlockHex Method (ChainedHeader)" Url="html/C85A220A.htm" />
+            <HelpTOCNode Title="GetBlockHex Method (String)" Url="html/750D9C9F.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetBlockChainInfo Method " Url="html/ED2502E7.htm" />
+          <HelpTOCNode Id="bd727a3f-ea9a-4160-a232-297de87d3abe" Title="GetBlockVerbose Method " Url="html/11EFCD7D.htm">
+            <HelpTOCNode Title="GetBlockVerbose Method (ChainedHeader, Int32)" Url="html/D3FA557B.htm" />
+            <HelpTOCNode Title="GetBlockVerbose Method (String, Int32)" Url="html/CB4901BB.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetChainTips Method " Url="html/E651576C.htm" />
+          <HelpTOCNode Title="GetChainTxStatus Method " Url="html/42E89CB0.htm" />
+          <HelpTOCNode Title="InvalidateBlockHash Method " Url="html/7F19B384.htm" />
+          <HelpTOCNode Title="VerifyChain Method " Url="html/61AC5922.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="986facc4-4944-4c05-ab1d-0f9abb81aece" Title="FullNodeRPCController Class" Url="html/4674856D.htm">
+        <HelpTOCNode Id="22ee39f6-570f-46fc-bff2-a0f61d1a289a" Title="FullNodeRPCController Methods" Url="html/CA447F58.htm">
+          <HelpTOCNode Title="GetInfo Method " Url="html/F2C8771.htm" />
+          <HelpTOCNode Title="GetNetworkInfo Method " Url="html/97A6DC67.htm" />
+          <HelpTOCNode Title="Uptime Method " Url="html/967ADC01.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f31edc6e-9b9a-4509-98b8-53066124bef8" Title="NetworkRPCController Class" Url="html/56E8CC63.htm">
+        <HelpTOCNode Id="cfa1d938-14f5-47b0-8819-69e847c0abe9" Title="NetworkRPCController Methods" Url="html/3AC00E2F.htm">
+          <HelpTOCNode Title="AddNode Method " Url="html/9056829.htm" />
+          <HelpTOCNode Title="ClearBanned Method " Url="html/CD247131.htm" />
+          <HelpTOCNode Title="DisconnectNode Method " Url="html/1A51D821.htm" />
+          <HelpTOCNode Title="GetConnectionCount Method " Url="html/4B221F8F.htm" />
+          <HelpTOCNode Title="GetNetTotals Method " Url="html/A01B2CFE.htm" />
+          <HelpTOCNode Title="GetNodeInfo Method " Url="html/808FE84B.htm" />
+          <HelpTOCNode Title="GetPeerInfo Method " Url="html/B451FB68.htm" />
+          <HelpTOCNode Title="ListBanned Method " Url="html/385038DF.htm" />
+          <HelpTOCNode Title="SetBan Method " Url="html/C452CDA6.htm" />
+          <HelpTOCNode Title="SetNetworkActive Method " Url="html/DAC42ABF.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="376a5641-525e-4e74-9d10-b22b531b3314" Title="Wallet.Controllers" Url="html/D431BE14.htm">
+      <HelpTOCNode Id="e1d74283-84ea-4d33-9a98-01de86f49c0e" Title="TransactionRPCController Class" Url="html/626BE246.htm">
+        <HelpTOCNode Id="e9aa4c27-5d50-4352-943b-3e17e9e57da3" Title="TransactionRPCController Methods" Url="html/99216224.htm">
+          <HelpTOCNode Title="AbandonTransaction Method " Url="html/5C102538.htm" />
+          <HelpTOCNode Title="CombineRawTransaction Method " Url="html/F51066A7.htm" />
+          <HelpTOCNode Title="CreateRawTransaction Method " Url="html/DC27C0DB.htm" />
+          <HelpTOCNode Title="DecodeRawTransaction Method " Url="html/5C9A2B07.htm" />
+          <HelpTOCNode Title="DecodeScript Method " Url="html/A37622E4.htm" />
+          <HelpTOCNode Title="FundRawTransaction Method " Url="html/E37D0288.htm" />
+          <HelpTOCNode Title="GetRawTransaction Method " Url="html/639A5A9D.htm" />
+          <HelpTOCNode Title="GetTransaction Method " Url="html/758E5D95.htm" />
+          <HelpTOCNode Title="GetTransactionByWallet Method " Url="html/D5B633A4.htm" />
+          <HelpTOCNode Title="SendRawTransaction Method " Url="html/61784701.htm" />
+          <HelpTOCNode Title="SetTxFee Method " Url="html/D1707B03.htm" />
+          <HelpTOCNode Title="SignRawTransaction Method " Url="html/BE2BE69D.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f7194fc8-60ac-43fa-9045-0d725a00e204" Title="UtilRPCController Class" Url="html/B574AC2E.htm">
+        <HelpTOCNode Id="fa62f611-0406-45db-92d4-feeb4b1f21d7" Title="UtilRPCController Methods" Url="html/DB6F1C09.htm">
+          <HelpTOCNode Title="SignMessageWithPrivKey Method " Url="html/1DDD7F4C.htm" />
+          <HelpTOCNode Title="VerifyMessage Method " Url="html/799C6C2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="dedc7d51-c832-4178-a246-7f5746e27c29" Title="WalletRPCController Class" Url="html/E6DCDE7F.htm">
+        <HelpTOCNode Id="105b13be-7188-4d1d-93b1-7489d14218c3" Title="WalletRPCController Methods" Url="html/DD02291F.htm">
+          <HelpTOCNode Title="AbortReScan Method " Url="html/BD5708B9.htm" />
+          <HelpTOCNode Title="BackupWallet Method " Url="html/7DABEA20.htm" />
+          <HelpTOCNode Title="DumpPrivKey Method " Url="html/4111FF1B.htm" />
+          <HelpTOCNode Title="DumpWallet Method " Url="html/39A8459F.htm" />
+          <HelpTOCNode Title="GenerateNewWallet Method " Url="html/8A8F50A9.htm" />
+          <HelpTOCNode Title="GenerateNewWalletBase64 Method " Url="html/40D6F8C3.htm" />
+          <HelpTOCNode Title="GetAccount Method " Url="html/9D213177.htm" />
+          <HelpTOCNode Title="GetAccountAddress Method " Url="html/8DDAA405.htm" />
+          <HelpTOCNode Title="GetAddressesByAccount Method " Url="html/EA0F0EE1.htm" />
+          <HelpTOCNode Title="GetBalance Method " Url="html/B4942FF9.htm" />
+          <HelpTOCNode Title="GetHistory Method " Url="html/1D7B26E3.htm" />
+          <HelpTOCNode Title="GetNewAddress Method " Url="html/93C8F244.htm" />
+          <HelpTOCNode Title="GetRawChangeAddress Method " Url="html/3ADF117B.htm" />
+          <HelpTOCNode Title="GetReceivedByAccount Method " Url="html/E411AB89.htm" />
+          <HelpTOCNode Title="GetReceivedByAddress Method " Url="html/EAD6758F.htm" />
+          <HelpTOCNode Title="GetUnconfirmedBalance Method " Url="html/FFDD9B68.htm" />
+          <HelpTOCNode Title="GetWallet Method " Url="html/D3F4580B.htm" />
+          <HelpTOCNode Title="GetWalletInfo Method " Url="html/3A1E4461.htm" />
+          <HelpTOCNode Title="ImportAddress Method " Url="html/9A320D2A.htm" />
+          <HelpTOCNode Title="ImportPubKey Method " Url="html/CF1941D4.htm" />
+          <HelpTOCNode Title="KeyPoolReFill Method " Url="html/93665C66.htm" />
+          <HelpTOCNode Title="ListAccounts Method " Url="html/AA477D46.htm" />
+          <HelpTOCNode Title="ListAddressGroupings Method " Url="html/B4FF3B3E.htm" />
+          <HelpTOCNode Title="ListLockUnspent Method " Url="html/52B09A6A.htm" />
+          <HelpTOCNode Title="ListReceivedByAddress Method " Url="html/8BA9C7CE.htm" />
+          <HelpTOCNode Title="ListSinceBlock Method " Url="html/949C881B.htm" />
+          <HelpTOCNode Title="ListTransactions Method " Url="html/A17EFC7B.htm" />
+          <HelpTOCNode Title="ListUnspent Method " Url="html/D7A9D7F2.htm" />
+          <HelpTOCNode Title="LockUnspend Method " Url="html/28B2A1DB.htm" />
+          <HelpTOCNode Title="RemoveTransaction Method " Url="html/E2F50FF7.htm" />
+          <HelpTOCNode Title="RescanBlockChain Method " Url="html/9711F0C8.htm" />
+          <HelpTOCNode Title="Restore Method " Url="html/A6716BB2.htm" />
+          <HelpTOCNode Title="RestoreBase64 Method " Url="html/171FABCA.htm" />
+          <HelpTOCNode Title="Sendmany Method " Url="html/BEA45533.htm" />
+          <HelpTOCNode Title="SendmanyBase64 Method " Url="html/FC920597.htm" />
+          <HelpTOCNode Title="SendmanyFee Method " Url="html/68DED5FC.htm" />
+          <HelpTOCNode Title="SendmanyFeeBase64 Method " Url="html/64215811.htm" />
+          <HelpTOCNode Title="SendMoney Method " Url="html/D90ACC7D.htm" />
+          <HelpTOCNode Title="SendMoneyBase64 Method " Url="html/F0355154.htm" />
+          <HelpTOCNode Title="SendMoneyFee Method " Url="html/3A7C4A71.htm" />
+          <HelpTOCNode Title="SendMoneyFeeBase64 Method " Url="html/C9936DED.htm" />
+          <HelpTOCNode Title="SendToAddress Method " Url="html/8CDB0DDA.htm" />
+          <HelpTOCNode Title="SendToAddressBase64 Method " Url="html/A19AE06B.htm" />
+          <HelpTOCNode Title="SendToAddressFee Method " Url="html/5432C9FE.htm" />
+          <HelpTOCNode Title="SendToAddressFeeBase64 Method " Url="html/BCC93AFD.htm" />
+          <HelpTOCNode Title="ValidateAddress Method " Url="html/47F65F17.htm" />
+          <HelpTOCNode Title="WalletLock Method " Url="html/737BC319.htm" />
+          <HelpTOCNode Title="WalletPassphrase Method " Url="html/69EB71B8.htm" />
+          <HelpTOCNode Title="Walletpassword Method " Url="html/CAE8DA61.htm" />
+          <HelpTOCNode Title="WalletpasswordBase64 Method " Url="html/22DAC139.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

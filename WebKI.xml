@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AbandonTransaction method" Url="html/5C102538.htm" />
+  <HelpKINode Title="AbortReScan method" Url="html/BD5708B9.htm" />
+  <HelpKINode Title="AddNode method" Url="html/9056829.htm" />
+  <HelpKINode Title="BackupWallet method" Url="html/7DABEA20.htm" />
+  <HelpKINode Title="BlockChainRPCController class">
+    <HelpKINode Title="BlockChainRPCController Class" Url="html/7A47FB8B.htm" />
+    <HelpKINode Title="methods" Url="html/BDDDE25E.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BlockChainRPCController.GetBestBlockHash method" Url="html/602E1AC2.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetBlock method" Url="html/ABAEF3B2.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetBlockChainInfo method" Url="html/ED2502E7.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetBlockCount method" Url="html/468EA096.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetBlockHash method" Url="html/91B13B7D.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetBlockHeader method" Url="html/58EE1660.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetBlockHex method" Url="html/622E8971.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetBlockVerbose method" Url="html/11EFCD7D.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetChainTips method" Url="html/E651576C.htm" />
+  <HelpKINode Title="BlockChainRPCController.GetChainTxStatus method" Url="html/42E89CB0.htm" />
+  <HelpKINode Title="BlockChainRPCController.InvalidateBlockHash method" Url="html/7F19B384.htm" />
+  <HelpKINode Title="BlockChainRPCController.VerifyChain method" Url="html/61AC5922.htm" />
+  <HelpKINode Title="MemoryPool.Controller namespace" Url="html/AB6A959E.htm" />
+  <HelpKINode Title="MemoryPool.Controller.MemPoolRPCController class" Url="html/E6BC990A.htm" />
+  <HelpKINode Title="Miner.Controllers namespace" Url="html/AAF4654.htm" />
+  <HelpKINode Title="Miner.Controllers.MiningRPCController class" Url="html/F1305EE1.htm" />
+  <HelpKINode Title="RPC.Controllers namespace" Url="html/2BB7B656.htm" />
+  <HelpKINode Title="RPC.Controllers.BlockChainRPCController class" Url="html/7A47FB8B.htm" />
+  <HelpKINode Title="RPC.Controllers.FullNodeRPCController class" Url="html/4674856D.htm" />
+  <HelpKINode Title="RPC.Controllers.NetworkRPCController class" Url="html/56E8CC63.htm" />
+  <HelpKINode Title="Wallet.Controllers namespace" Url="html/D431BE14.htm" />
+  <HelpKINode Title="Wallet.Controllers.TransactionRPCController class" Url="html/626BE246.htm" />
+  <HelpKINode Title="Wallet.Controllers.UtilRPCController class" Url="html/B574AC2E.htm" />
+  <HelpKINode Title="Wallet.Controllers.WalletRPCController class" Url="html/E6DCDE7F.htm" />
+  <HelpKINode Title="ClearBanned method" Url="html/CD247131.htm" />
+  <HelpKINode Title="CombineRawTransaction method" Url="html/F51066A7.htm" />
+  <HelpKINode Title="CreateRawTransaction method" Url="html/DC27C0DB.htm" />
+  <HelpKINode Title="DecodeRawTransaction method" Url="html/5C9A2B07.htm" />
+  <HelpKINode Title="DecodeScript method" Url="html/A37622E4.htm" />
+  <HelpKINode Title="DisconnectNode method" Url="html/1A51D821.htm" />
+  <HelpKINode Title="DumpFeeStats method" Url="html/E2321614.htm" />
+  <HelpKINode Title="DumpPrivKey method" Url="html/4111FF1B.htm" />
+  <HelpKINode Title="DumpWallet method" Url="html/39A8459F.htm" />
+  <HelpKINode Title="EstimateFee method" Url="html/E2D8EF25.htm" />
+  <HelpKINode Title="EstimateSmartFee method" Url="html/E87B713B.htm" />
+  <HelpKINode Title="FullNodeRPCController class">
+    <HelpKINode Title="FullNodeRPCController Class" Url="html/4674856D.htm" />
+    <HelpKINode Title="methods" Url="html/CA447F58.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FullNodeRPCController.GetInfo method" Url="html/F2C8771.htm" />
+  <HelpKINode Title="FullNodeRPCController.GetNetworkInfo method" Url="html/97A6DC67.htm" />
+  <HelpKINode Title="FullNodeRPCController.Uptime method" Url="html/967ADC01.htm" />
+  <HelpKINode Title="FundRawTransaction method" Url="html/E37D0288.htm" />
+  <HelpKINode Title="GenerateNewWallet method" Url="html/8A8F50A9.htm" />
+  <HelpKINode Title="GenerateNewWalletBase64 method" Url="html/40D6F8C3.htm" />
+  <HelpKINode Title="GetAccount method" Url="html/9D213177.htm" />
+  <HelpKINode Title="GetAccountAddress method" Url="html/8DDAA405.htm" />
+  <HelpKINode Title="GetAddressesByAccount method" Url="html/EA0F0EE1.htm" />
+  <HelpKINode Title="GetBalance method" Url="html/B4942FF9.htm" />
+  <HelpKINode Title="GetBestBlockHash method" Url="html/602E1AC2.htm" />
+  <HelpKINode Title="GetBlock method" Url="html/ABAEF3B2.htm" />
+  <HelpKINode Title="GetBlockChainInfo method" Url="html/ED2502E7.htm" />
+  <HelpKINode Title="GetBlockCount method" Url="html/468EA096.htm" />
+  <HelpKINode Title="GetBlockHash method" Url="html/91B13B7D.htm" />
+  <HelpKINode Title="GetBlockHeader method" Url="html/58EE1660.htm" />
+  <HelpKINode Title="GetBlockHex method" Url="html/622E8971.htm" />
+  <HelpKINode Title="GetBlockTemplate method" Url="html/6A3FF8C2.htm" />
+  <HelpKINode Title="GetBlockVerbose method" Url="html/11EFCD7D.htm" />
+  <HelpKINode Title="GetChainTips method" Url="html/E651576C.htm" />
+  <HelpKINode Title="GetChainTxStatus method" Url="html/42E89CB0.htm" />
+  <HelpKINode Title="GetConnectionCount method" Url="html/4B221F8F.htm" />
+  <HelpKINode Title="GetDifficulty method" Url="html/3E187B18.htm" />
+  <HelpKINode Title="GetHistory method" Url="html/1D7B26E3.htm" />
+  <HelpKINode Title="GetInfo method" Url="html/F2C8771.htm" />
+  <HelpKINode Title="GetMempoolAncestors method" Url="html/1041D052.htm" />
+  <HelpKINode Title="GetMempoolDescendants method" Url="html/7FE89E2B.htm" />
+  <HelpKINode Title="GetMempoolEntry method" Url="html/B6732BBE.htm" />
+  <HelpKINode Title="GetMempoolInfo method" Url="html/18F22BC1.htm" />
+  <HelpKINode Title="GetMiningInfo method" Url="html/628F1848.htm" />
+  <HelpKINode Title="GetNetTotals method" Url="html/A01B2CFE.htm" />
+  <HelpKINode Title="GetNetworkHashPS method" Url="html/6E4D16F6.htm" />
+  <HelpKINode Title="GetNetworkInfo method" Url="html/97A6DC67.htm" />
+  <HelpKINode Title="GetNewAddress method" Url="html/93C8F244.htm" />
+  <HelpKINode Title="GetNodeInfo method" Url="html/808FE84B.htm" />
+  <HelpKINode Title="GetPeerInfo method" Url="html/B451FB68.htm" />
+  <HelpKINode Title="GetRawChangeAddress method" Url="html/3ADF117B.htm" />
+  <HelpKINode Title="GetRawMempool method" Url="html/85C74D90.htm" />
+  <HelpKINode Title="GetRawTransaction method" Url="html/639A5A9D.htm" />
+  <HelpKINode Title="GetReceivedByAccount method" Url="html/E411AB89.htm" />
+  <HelpKINode Title="GetReceivedByAddress method" Url="html/EAD6758F.htm" />
+  <HelpKINode Title="GetTransaction method" Url="html/758E5D95.htm" />
+  <HelpKINode Title="GetTransactionByWallet method" Url="html/D5B633A4.htm" />
+  <HelpKINode Title="GetTxOut method" Url="html/1B0E963D.htm" />
+  <HelpKINode Title="GetTxOutProf method" Url="html/45DD422C.htm" />
+  <HelpKINode Title="GetTxOutSetInfo method" Url="html/91E79FCB.htm" />
+  <HelpKINode Title="GetUnconfirmedBalance method" Url="html/FFDD9B68.htm" />
+  <HelpKINode Title="GetWallet method" Url="html/D3F4580B.htm" />
+  <HelpKINode Title="GetWalletInfo method" Url="html/3A1E4461.htm" />
+  <HelpKINode Title="ImportAddress method" Url="html/9A320D2A.htm" />
+  <HelpKINode Title="ImportPubKey method" Url="html/CF1941D4.htm" />
+  <HelpKINode Title="InvalidateBlockHash method" Url="html/7F19B384.htm" />
+  <HelpKINode Title="KeyPoolReFill method" Url="html/93665C66.htm" />
+  <HelpKINode Title="ListAccounts method" Url="html/AA477D46.htm" />
+  <HelpKINode Title="ListAddressGroupings method" Url="html/B4FF3B3E.htm" />
+  <HelpKINode Title="ListBanned method" Url="html/385038DF.htm" />
+  <HelpKINode Title="ListLockUnspent method" Url="html/52B09A6A.htm" />
+  <HelpKINode Title="ListReceivedByAddress method" Url="html/8BA9C7CE.htm" />
+  <HelpKINode Title="ListSinceBlock method" Url="html/949C881B.htm" />
+  <HelpKINode Title="ListTransactions method" Url="html/A17EFC7B.htm" />
+  <HelpKINode Title="ListUnspent method" Url="html/D7A9D7F2.htm" />
+  <HelpKINode Title="LockUnspend method" Url="html/28B2A1DB.htm" />
+  <HelpKINode Title="MemPoolRPCController class">
+    <HelpKINode Title="MemPoolRPCController Class" Url="html/E6BC990A.htm" />
+    <HelpKINode Title="methods" Url="html/92A90E6F.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MemPoolRPCController.GetMempoolAncestors method" Url="html/1041D052.htm" />
+  <HelpKINode Title="MemPoolRPCController.GetMempoolDescendants method" Url="html/7FE89E2B.htm" />
+  <HelpKINode Title="MemPoolRPCController.GetMempoolEntry method" Url="html/B6732BBE.htm" />
+  <HelpKINode Title="MemPoolRPCController.GetMempoolInfo method" Url="html/18F22BC1.htm" />
+  <HelpKINode Title="MemPoolRPCController.GetRawMempool method" Url="html/85C74D90.htm" />
+  <HelpKINode Title="MemPoolRPCController.GetTxOut method" Url="html/1B0E963D.htm" />
+  <HelpKINode Title="MemPoolRPCController.GetTxOutProf method" Url="html/45DD422C.htm" />
+  <HelpKINode Title="MemPoolRPCController.GetTxOutSetInfo method" Url="html/91E79FCB.htm" />
+  <HelpKINode Title="MemPoolRPCController.RemoveTxFromMemPool method" Url="html/63F3B69E.htm" />
+  <HelpKINode Title="MemPoolRPCController.SaveMemPool method" Url="html/94E37E13.htm" />
+  <HelpKINode Title="MemPoolRPCController.VerifyTxOutProof method" Url="html/FA0A67CE.htm" />
+  <HelpKINode Title="MiningRPCController class">
+    <HelpKINode Title="MiningRPCController Class" Url="html/F1305EE1.htm" />
+    <HelpKINode Title="methods" Url="html/65FC825E.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MiningRPCController.DumpFeeStats method" Url="html/E2321614.htm" />
+  <HelpKINode Title="MiningRPCController.EstimateFee method" Url="html/E2D8EF25.htm" />
+  <HelpKINode Title="MiningRPCController.EstimateSmartFee method" Url="html/E87B713B.htm" />
+  <HelpKINode Title="MiningRPCController.GetBlockTemplate method" Url="html/6A3FF8C2.htm" />
+  <HelpKINode Title="MiningRPCController.GetDifficulty method" Url="html/3E187B18.htm" />
+  <HelpKINode Title="MiningRPCController.GetMiningInfo method" Url="html/628F1848.htm" />
+  <HelpKINode Title="MiningRPCController.GetNetworkHashPS method" Url="html/6E4D16F6.htm" />
+  <HelpKINode Title="MiningRPCController.PrioritizeTransaction method" Url="html/98E30B60.htm" />
+  <HelpKINode Title="MiningRPCController.SubmitBlock method" Url="html/8C5BB0C0.htm" />
+  <HelpKINode Title="NetworkRPCController class">
+    <HelpKINode Title="NetworkRPCController Class" Url="html/56E8CC63.htm" />
+    <HelpKINode Title="methods" Url="html/3AC00E2F.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NetworkRPCController.AddNode method" Url="html/9056829.htm" />
+  <HelpKINode Title="NetworkRPCController.ClearBanned method" Url="html/CD247131.htm" />
+  <HelpKINode Title="NetworkRPCController.DisconnectNode method" Url="html/1A51D821.htm" />
+  <HelpKINode Title="NetworkRPCController.GetConnectionCount method" Url="html/4B221F8F.htm" />
+  <HelpKINode Title="NetworkRPCController.GetNetTotals method" Url="html/A01B2CFE.htm" />
+  <HelpKINode Title="NetworkRPCController.GetNodeInfo method" Url="html/808FE84B.htm" />
+  <HelpKINode Title="NetworkRPCController.GetPeerInfo method" Url="html/B451FB68.htm" />
+  <HelpKINode Title="NetworkRPCController.ListBanned method" Url="html/385038DF.htm" />
+  <HelpKINode Title="NetworkRPCController.SetBan method" Url="html/C452CDA6.htm" />
+  <HelpKINode Title="NetworkRPCController.SetNetworkActive method" Url="html/DAC42ABF.htm" />
+  <HelpKINode Title="PrioritizeTransaction method" Url="html/98E30B60.htm" />
+  <HelpKINode Title="RemoveTransaction method" Url="html/E2F50FF7.htm" />
+  <HelpKINode Title="RemoveTxFromMemPool method" Url="html/63F3B69E.htm" />
+  <HelpKINode Title="RescanBlockChain method" Url="html/9711F0C8.htm" />
+  <HelpKINode Title="Restore method" Url="html/A6716BB2.htm" />
+  <HelpKINode Title="RestoreBase64 method" Url="html/171FABCA.htm" />
+  <HelpKINode Title="SaveMemPool method" Url="html/94E37E13.htm" />
+  <HelpKINode Title="Sendmany method" Url="html/BEA45533.htm" />
+  <HelpKINode Title="SendmanyBase64 method" Url="html/FC920597.htm" />
+  <HelpKINode Title="SendmanyFee method" Url="html/68DED5FC.htm" />
+  <HelpKINode Title="SendmanyFeeBase64 method" Url="html/64215811.htm" />
+  <HelpKINode Title="SendMoney method" Url="html/D90ACC7D.htm" />
+  <HelpKINode Title="SendMoneyBase64 method" Url="html/F0355154.htm" />
+  <HelpKINode Title="SendMoneyFee method" Url="html/3A7C4A71.htm" />
+  <HelpKINode Title="SendMoneyFeeBase64 method" Url="html/C9936DED.htm" />
+  <HelpKINode Title="SendRawTransaction method" Url="html/61784701.htm" />
+  <HelpKINode Title="SendToAddress method" Url="html/8CDB0DDA.htm" />
+  <HelpKINode Title="SendToAddressBase64 method" Url="html/A19AE06B.htm" />
+  <HelpKINode Title="SendToAddressFee method" Url="html/5432C9FE.htm" />
+  <HelpKINode Title="SendToAddressFeeBase64 method" Url="html/BCC93AFD.htm" />
+  <HelpKINode Title="SetBan method" Url="html/C452CDA6.htm" />
+  <HelpKINode Title="SetNetworkActive method" Url="html/DAC42ABF.htm" />
+  <HelpKINode Title="SetTxFee method" Url="html/D1707B03.htm" />
+  <HelpKINode Title="SignMessageWithPrivKey method" Url="html/1DDD7F4C.htm" />
+  <HelpKINode Title="SignRawTransaction method" Url="html/BE2BE69D.htm" />
+  <HelpKINode Title="SubmitBlock method" Url="html/8C5BB0C0.htm" />
+  <HelpKINode Title="TransactionRPCController class">
+    <HelpKINode Title="TransactionRPCController Class" Url="html/626BE246.htm" />
+    <HelpKINode Title="methods" Url="html/99216224.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransactionRPCController.AbandonTransaction method" Url="html/5C102538.htm" />
+  <HelpKINode Title="TransactionRPCController.CombineRawTransaction method" Url="html/F51066A7.htm" />
+  <HelpKINode Title="TransactionRPCController.CreateRawTransaction method" Url="html/DC27C0DB.htm" />
+  <HelpKINode Title="TransactionRPCController.DecodeRawTransaction method" Url="html/5C9A2B07.htm" />
+  <HelpKINode Title="TransactionRPCController.DecodeScript method" Url="html/A37622E4.htm" />
+  <HelpKINode Title="TransactionRPCController.FundRawTransaction method" Url="html/E37D0288.htm" />
+  <HelpKINode Title="TransactionRPCController.GetRawTransaction method" Url="html/639A5A9D.htm" />
+  <HelpKINode Title="TransactionRPCController.GetTransaction method" Url="html/758E5D95.htm" />
+  <HelpKINode Title="TransactionRPCController.GetTransactionByWallet method" Url="html/D5B633A4.htm" />
+  <HelpKINode Title="TransactionRPCController.SendRawTransaction method" Url="html/61784701.htm" />
+  <HelpKINode Title="TransactionRPCController.SetTxFee method" Url="html/D1707B03.htm" />
+  <HelpKINode Title="TransactionRPCController.SignRawTransaction method" Url="html/BE2BE69D.htm" />
+  <HelpKINode Title="Uptime method" Url="html/967ADC01.htm" />
+  <HelpKINode Title="UtilRPCController class">
+    <HelpKINode Title="UtilRPCController Class" Url="html/B574AC2E.htm" />
+    <HelpKINode Title="methods" Url="html/DB6F1C09.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UtilRPCController.SignMessageWithPrivKey method" Url="html/1DDD7F4C.htm" />
+  <HelpKINode Title="UtilRPCController.VerifyMessage method" Url="html/799C6C2.htm" />
+  <HelpKINode Title="ValidateAddress method" Url="html/47F65F17.htm" />
+  <HelpKINode Title="VerifyChain method" Url="html/61AC5922.htm" />
+  <HelpKINode Title="VerifyMessage method" Url="html/799C6C2.htm" />
+  <HelpKINode Title="VerifyTxOutProof method" Url="html/FA0A67CE.htm" />
+  <HelpKINode Title="WalletLock method" Url="html/737BC319.htm" />
+  <HelpKINode Title="WalletPassphrase method" Url="html/69EB71B8.htm" />
+  <HelpKINode Title="Walletpassword method" Url="html/CAE8DA61.htm" />
+  <HelpKINode Title="WalletpasswordBase64 method" Url="html/22DAC139.htm" />
+  <HelpKINode Title="WalletRPCController class">
+    <HelpKINode Title="WalletRPCController Class" Url="html/E6DCDE7F.htm" />
+    <HelpKINode Title="methods" Url="html/DD02291F.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WalletRPCController.AbortReScan method" Url="html/BD5708B9.htm" />
+  <HelpKINode Title="WalletRPCController.BackupWallet method" Url="html/7DABEA20.htm" />
+  <HelpKINode Title="WalletRPCController.DumpPrivKey method" Url="html/4111FF1B.htm" />
+  <HelpKINode Title="WalletRPCController.DumpWallet method" Url="html/39A8459F.htm" />
+  <HelpKINode Title="WalletRPCController.GenerateNewWallet method" Url="html/8A8F50A9.htm" />
+  <HelpKINode Title="WalletRPCController.GenerateNewWalletBase64 method" Url="html/40D6F8C3.htm" />
+  <HelpKINode Title="WalletRPCController.GetAccount method" Url="html/9D213177.htm" />
+  <HelpKINode Title="WalletRPCController.GetAccountAddress method" Url="html/8DDAA405.htm" />
+  <HelpKINode Title="WalletRPCController.GetAddressesByAccount method" Url="html/EA0F0EE1.htm" />
+  <HelpKINode Title="WalletRPCController.GetBalance method" Url="html/B4942FF9.htm" />
+  <HelpKINode Title="WalletRPCController.GetHistory method" Url="html/1D7B26E3.htm" />
+  <HelpKINode Title="WalletRPCController.GetNewAddress method" Url="html/93C8F244.htm" />
+  <HelpKINode Title="WalletRPCController.GetRawChangeAddress method" Url="html/3ADF117B.htm" />
+  <HelpKINode Title="WalletRPCController.GetReceivedByAccount method" Url="html/E411AB89.htm" />
+  <HelpKINode Title="WalletRPCController.GetReceivedByAddress method" Url="html/EAD6758F.htm" />
+  <HelpKINode Title="WalletRPCController.GetUnconfirmedBalance method" Url="html/FFDD9B68.htm" />
+  <HelpKINode Title="WalletRPCController.GetWallet method" Url="html/D3F4580B.htm" />
+  <HelpKINode Title="WalletRPCController.GetWalletInfo method" Url="html/3A1E4461.htm" />
+  <HelpKINode Title="WalletRPCController.ImportAddress method" Url="html/9A320D2A.htm" />
+  <HelpKINode Title="WalletRPCController.ImportPubKey method" Url="html/CF1941D4.htm" />
+  <HelpKINode Title="WalletRPCController.KeyPoolReFill method" Url="html/93665C66.htm" />
+  <HelpKINode Title="WalletRPCController.ListAccounts method" Url="html/AA477D46.htm" />
+  <HelpKINode Title="WalletRPCController.ListAddressGroupings method" Url="html/B4FF3B3E.htm" />
+  <HelpKINode Title="WalletRPCController.ListLockUnspent method" Url="html/52B09A6A.htm" />
+  <HelpKINode Title="WalletRPCController.ListReceivedByAddress method" Url="html/8BA9C7CE.htm" />
+  <HelpKINode Title="WalletRPCController.ListSinceBlock method" Url="html/949C881B.htm" />
+  <HelpKINode Title="WalletRPCController.ListTransactions method" Url="html/A17EFC7B.htm" />
+  <HelpKINode Title="WalletRPCController.ListUnspent method" Url="html/D7A9D7F2.htm" />
+  <HelpKINode Title="WalletRPCController.LockUnspend method" Url="html/28B2A1DB.htm" />
+  <HelpKINode Title="WalletRPCController.RemoveTransaction method" Url="html/E2F50FF7.htm" />
+  <HelpKINode Title="WalletRPCController.RescanBlockChain method" Url="html/9711F0C8.htm" />
+  <HelpKINode Title="WalletRPCController.Restore method" Url="html/A6716BB2.htm" />
+  <HelpKINode Title="WalletRPCController.RestoreBase64 method" Url="html/171FABCA.htm" />
+  <HelpKINode Title="WalletRPCController.Sendmany method" Url="html/BEA45533.htm" />
+  <HelpKINode Title="WalletRPCController.SendmanyBase64 method" Url="html/FC920597.htm" />
+  <HelpKINode Title="WalletRPCController.SendmanyFee method" Url="html/68DED5FC.htm" />
+  <HelpKINode Title="WalletRPCController.SendmanyFeeBase64 method" Url="html/64215811.htm" />
+  <HelpKINode Title="WalletRPCController.SendMoney method" Url="html/D90ACC7D.htm" />
+  <HelpKINode Title="WalletRPCController.SendMoneyBase64 method" Url="html/F0355154.htm" />
+  <HelpKINode Title="WalletRPCController.SendMoneyFee method" Url="html/3A7C4A71.htm" />
+  <HelpKINode Title="WalletRPCController.SendMoneyFeeBase64 method" Url="html/C9936DED.htm" />
+  <HelpKINode Title="WalletRPCController.SendToAddress method" Url="html/8CDB0DDA.htm" />
+  <HelpKINode Title="WalletRPCController.SendToAddressBase64 method" Url="html/A19AE06B.htm" />
+  <HelpKINode Title="WalletRPCController.SendToAddressFee method" Url="html/5432C9FE.htm" />
+  <HelpKINode Title="WalletRPCController.SendToAddressFeeBase64 method" Url="html/BCC93AFD.htm" />
+  <HelpKINode Title="WalletRPCController.ValidateAddress method" Url="html/47F65F17.htm" />
+  <HelpKINode Title="WalletRPCController.WalletLock method" Url="html/737BC319.htm" />
+  <HelpKINode Title="WalletRPCController.WalletPassphrase method" Url="html/69EB71B8.htm" />
+  <HelpKINode Title="WalletRPCController.Walletpassword method" Url="html/CAE8DA61.htm" />
+  <HelpKINode Title="WalletRPCController.WalletpasswordBase64 method" Url="html/22DAC139.htm" />
+</HelpKI>
